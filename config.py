@@ -1,0 +1,2 @@
+bot_token="5626861182:AAEBLAcwaQVEw3FCtAd8XlYJDIGkxOoAS9M"
+admin_id=654147656
